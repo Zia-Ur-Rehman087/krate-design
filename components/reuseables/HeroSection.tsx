@@ -41,7 +41,7 @@ const HeroSection = () => {
   return (
     <div>
       <h1 className="text-4xl sm:text-6xl lg:text-7xl 2xl:text-9xl font-bold w-4/5 mx-auto py-5 md:py-10">
-        Welcome to the Krate studio.
+        Welcome------to----the---Krate--studio.
       </h1>
       <div className="relative w-full h-full flex  gap-5 mx-auto justify-between">
         {Array.from({ length: imageSliceCount })?.map((_, i) => {
